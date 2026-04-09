@@ -1,3 +1,3 @@
 # index
 this is my first git repository
-autheir-pawan kumar
+autheir-pawan  kumar
